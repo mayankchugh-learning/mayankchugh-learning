@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning MLOPS...
+- 🌱 I’m currently learning MLOPS, Data Analytics ...
+- 
   
 <!--
 **mayankchugh-learning/mayankchugh-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
