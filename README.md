@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning MLOPS, Data Analytics ...
 - My old git repository https://github.com/mayankchugh1977
-- 
+- You can connect me through LinkedIn: https://www.linkedin.com/in/mchugh77/
 - 
   
 <!--
