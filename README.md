@@ -24,8 +24,8 @@
 
 # You can also find me on: 
 
-[<img align="left" alt="mayankchugh-learning | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="mayankchugh-learning | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="mayankchugh-learning | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />]
+[<img align="left" alt="mayankchugh-learning | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />]
                                                                                                                                                                        
 
 <br>
