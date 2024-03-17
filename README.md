@@ -3,6 +3,11 @@
 
 🏆 Solution Architect | 🔮 Data Scientist
 
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+</div>
+
 # 👋 About Me:
 
 
