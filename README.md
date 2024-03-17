@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working Generative AI, MLOPS, Data Analytics...
 - My old git repository https://github.com/mayankchugh1977
-- 📫 How to reach me: <a href="mailto:mayankchugh.learning@gmail.com">mayankchugh.learning@gmail.com</a> | or connect with me on <a href="[[https://www.linkedin.com/in/kumod-sharma/](https://www.linkedin.com/in/mchugh77/)](https://www.linkedin.com/in/mchugh77/)">My LinkedIn.</a>
+- 📫 How to reach me: <a href="mailto:mayankchugh.learning@gmail.com">mayankchugh.learning@gmail.com</a> | or connect with me on <a href="[[https://www.linkedin.com/in/mchugh77/](https://www.linkedin.com/in/mchugh77/)">My LinkedIn.</a>
 - ⚡ In my free time, I love to learn new technologies.
 
 ## 🌐 Socials:
