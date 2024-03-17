@@ -19,17 +19,14 @@
 <br>
 
 # :fire: My 📊 GitHub Stats::
-<div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
-<div style = "display: flex; flex-direction: row;">
 
-<div style = "margin: 0 10px">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
 
 
-</div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
 
-</div>
+
 
 <!--
 **mayankchugh-learning/mayankchugh-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
