@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchugh77/) [![YouTube](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=YouTube&logoColor=white)](www.youtube.com/@itaienthusiast) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchugh77/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](www.youtube.com/@itaienthusiast) 
 
 
 # 💻 Tech Stack:
