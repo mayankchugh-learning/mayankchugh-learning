@@ -23,10 +23,11 @@
 <div style = "display: flex; flex-direction: row;">
 
 <div style = "margin: 0 10px">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
+
 
 </div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
 
 </div>
 
