@@ -15,6 +15,12 @@
 
 <br>
 <br>
+
+# :fire: My Stats:
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchgh-learning)](https://git.io/streak-stats)
+
 <!--
 **mayankchugh-learning/mayankchugh-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
