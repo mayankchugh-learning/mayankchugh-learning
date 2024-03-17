@@ -49,6 +49,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
+### 🔝 Top Contributed Repo
+<div align = "center">
+
+![](https://github-contributor-stats.vercel.app/api?username=mayankchugh-learning&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+ <p align="center">Watch my contribution graph being eaten by a Snake! 🐍</p>
+
+![Snake animation](https://github.com/mayankchugh-learning/mayankchugh-learning/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 </div>
 
 ## 🌐 Socials:
