@@ -18,8 +18,8 @@
 
 
 - US Visa Approval Prediction - YouTube URL for Deployment video - https://youtu.be/p81ouOZVDTs
-- Deep Learning Project: Chest Disease Classification from Chest CT Scan Images with Copy Model code - YouTube URL for video - [https://youtu.be/p81ouOZVDTs](https://youtu.be/VKRxq0-pYCw)
-- Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for video - https://youtu.be/VKRxq0-pYCw
+- Deep Learning Project: Chest Disease Classification from Chest CT Scan Images with Copy Model code - YouTube URL link - [https://youtu.be/p81ouOZVDTs](https://youtu.be/VKRxq0-pYCw)
+- Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for deployment video link - https://youtu.be/VKRxq0-pYCw
 
 
 # 💻 Tech Stack:
