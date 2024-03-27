@@ -17,9 +17,9 @@
 - ⚡ In my free time, I love to learn new technologies.
 
 
-US Visa Approval Prediction - YouTube URL for Deployment video - https://youtu.be/p81ouOZVDTs
-Deep Learning Project: Chest Disease Classification from Chest CT Scan Images with Copy Model code - YouTube URL for video - [https://youtu.be/p81ouOZVDTs](https://youtu.be/VKRxq0-pYCw)
-Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for video - https://youtu.be/VKRxq0-pYCw
+- US Visa Approval Prediction - YouTube URL for Deployment video - https://youtu.be/p81ouOZVDTs
+- Deep Learning Project: Chest Disease Classification from Chest CT Scan Images with Copy Model code - YouTube URL for video - [https://youtu.be/p81ouOZVDTs](https://youtu.be/VKRxq0-pYCw)
+- Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for video - https://youtu.be/VKRxq0-pYCw
 
 
 # 💻 Tech Stack:
