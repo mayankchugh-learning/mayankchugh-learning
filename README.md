@@ -52,7 +52,7 @@
    <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
 
-# :fire: My 📊 GitHub Stats::
+# :fire: My 📊 GitHub Stats:
 
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
