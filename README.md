@@ -73,6 +73,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+</div>
 
 ### 🔝 Top Contributed Repo
 <div align = "center">
