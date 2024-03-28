@@ -59,6 +59,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 </div>
 
+<div align="center">
+ 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="48%" alt="Mayank Chugh's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=react&border=61dafb&hide_border=true" />
+<div>
+  
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
 
