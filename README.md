@@ -69,25 +69,25 @@
 <div>
   
 <!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=react&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
 -->
 <div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
-<div style = "display: flex; flex-direction: row;">
+<!-- <div style = "display: flex; flex-direction: row;">
 
 
 <div align = "center" style = "margin: 0 10px">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)
 </div>
-</div>
+</div>  -->
 
 <div style = "margin: 0 10px">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchugh-learning&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 </div>
 
