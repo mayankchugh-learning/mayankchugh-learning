@@ -45,24 +45,27 @@
 
 <br>
 
+
+
+# :fire: My 📊 GitHub Stats:
+
 <div>
   <img src="https://badges.pufler.dev/years/mayankchugh-learning" alt="Years Badge"  /> 
   <img src="https://badges.pufler.dev/repos/mayankchugh-learning" alt="Mayank Chugh Repos Badge"  /> 
   <img src="https://badges.pufler.dev/commits/monthly/mayankchugh-learning" alt="Updated Badge"  /> 
    <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
+<br>
+<!-- <div style = "margin: 0 10px">
 
-# :fire: My 📊 GitHub Stats:
-
-<div style = "margin: 0 10px">
-
-![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-</div>
+ ![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+</div> -->
 
 <div align="center">
  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="48%" alt="Mayank Chugh's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=react&border=61dafb&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img width="48%" alt="Mayank Chugh's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=react&border=61dafb&hide_border=true" />
 <div>
   
 <!--
