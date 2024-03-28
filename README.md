@@ -54,6 +54,11 @@
 
 # :fire: My 📊 GitHub Stats:
 
+<div style = "margin: 0 10px">
+
+![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+</div>
+
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
 
@@ -64,10 +69,6 @@
 <div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
 <div style = "display: flex; flex-direction: row;">
 
-<div style = "margin: 0 10px">
-
-![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-</div>
 
 <div align = "center" style = "margin: 0 10px">
 
