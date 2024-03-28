@@ -45,6 +45,12 @@
 
 <br>
 
+<div>
+  <img src="https://badges.pufler.dev/years/mayankchugh-learning" alt="Years Badge"  /> 
+  <img src="https://badges.pufler.dev/repos/mayankchugh-learning" alt="Mayank Chugh Repos Badge"  /> 
+  <img src="https://badges.pufler.dev/commits/monthly/mayankchugh-learning" alt="Updated Badge"  /> 
+   <!--Ref Link(badge):https://pufler.dev/git-badges/-->
+</div>
 
 # :fire: My 📊 GitHub Stats::
 
