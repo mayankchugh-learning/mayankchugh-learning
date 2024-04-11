@@ -99,6 +99,10 @@
 </div>
 
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+https://github.com/mayankchugh-learning/mayankchugh-learning/blob/main/github-contribution-grid-snake.svg
+
 <!--
 **mayankchugh-learning/mayankchugh-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
