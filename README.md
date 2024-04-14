@@ -38,6 +38,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchugh77/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](www.youtube.com/@itaienthusiast) 
 
 
+<!-- [![YouTube subscibers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=@itaienthusiast&key=AIzaSyBYkPGoYjBy2KaGKR5Nq5Q2YwjiiLWRNhg)](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=@itaienthusiast&key=AIzaSyBYkPGoYjBy2KaGKR5Nq5Q2YwjiiLWRNhg) -->
+
+<a href="https://www.youtube.com/@itaienthusiast?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php#"/></a>
+
+
 <!-- # You can also find me on: 
 <img align="left" alt="mayankchugh-learning | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 <img align="left" alt="mayankchugh-learning | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" /> -->
@@ -70,9 +75,6 @@
   
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
-
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
 -->
 <div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
