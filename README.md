@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=mayankchugh-learning&label=PROFILE+VIEWS)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!+😀)](https://git.io/typing-svg)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
@@ -11,6 +9,9 @@
   
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
+
+
+![](https://komarev.com/ghpvc/?username=mayankchugh-learning&label=PROFILE+VIEWS)
 
 # 👋 About Me ❤️:
 
