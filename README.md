@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Mayank 😀</h1>
 
-🏆 Enterprise Architect/Solution Architect | 🔮 Data Scientist | ❖ Software Engineering | ❖ Cloud Migration/Integration | ❖ Project Management | ❖ Business Analysis | ❖ Product Development | ❖ 20+ Years Exp ❖ Visionary Enterprise Architect
+🏆 Generative AI Engineer | ❖ Enterprise Architect/Solution Architect | 🔮 Data Scientist | ❖ Software Engineering | ❖ Cloud Migration/Integration | ❖ Project Management | ❖ Business Analysis | ❖ Product Development | ❖ 20+ Years Exp ❖ Visionary Enterprise Architect
 
 <div align="center">
   
