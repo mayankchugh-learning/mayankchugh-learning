@@ -36,7 +36,7 @@
 - Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for deployment video link - https://youtu.be/VKRxq0-pYCw
 
 | S No | Project Name | Specifications | Repository | Docker Hub | YouTube URL | End-to-End |
-| ------------ | -------------- | ---------- | --------- | --------- | --------- |
+| ------------ | -------------- | ---------- | --------- | --------- | --------- | --------- |
 | 01 | US Visa Approval Prediction  | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction](https://github.com/mayankchugh-learning/US-Visa-Approval-Prediction.git)) | [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repo-green.svg)](https://hub.docker.com/repository/docker/mayankchughjob/end-to-end-object-detection/general) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/p81ouOZVDTs)  | <p align="center">✔</p> |
 
 # 💻 Tech Stack:
