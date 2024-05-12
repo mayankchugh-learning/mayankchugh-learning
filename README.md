@@ -35,6 +35,7 @@
 - Deep Learning Project: Chest Disease Classification from Chest CT Scan Images with Copy Model code - YouTube URL link - [https://youtu.be/p81ouOZVDTs](https://youtu.be/VKRxq0-pYCw)
 - Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for deployment video link - https://youtu.be/VKRxq0-pYCw
 
+# :fire: Projects
 | S No | Project Name | Specifications | Repository | Docker Hub | YouTube URL | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- | --------- | --------- |
 | 01 | US Visa Approval Prediction  | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/mayankchugh-learning/US-Visa-Approval-Prediction.git](https://github.com/mayankchugh-learning/US-Visa-Approval-Prediction.git)) | [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repo-green.svg)](https://hub.docker.com/repository/docker/mayankchughjob/end-to-end-object-detection/general) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/p81ouOZVDTs)  | <p align="center">✔</p> |
@@ -58,7 +59,7 @@
 
 
 
-# :fire: My 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <div>
   <img src="https://badges.pufler.dev/years/mayankchugh-learning" alt="Years Badge"  /> 
