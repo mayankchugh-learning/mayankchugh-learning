@@ -24,7 +24,9 @@
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchugh77/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](www.youtube.com/@itaienthusiast) 
-<a href="https://www.youtube.com/@itaienthusiast?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php#"/></a>
+
+
+<!-- <a href="https://www.youtube.com/@itaienthusiast?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php#"/></a> -->
 <!-- [![YouTube subscibers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=@itaienthusiast&key=AIzaSyBYkPGoYjBy2KaGKR5Nq5Q2YwjiiLWRNhg)](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=@itaienthusiast&key=AIzaSyBYkPGoYjBy2KaGKR5Nq5Q2YwjiiLWRNhg) -->
 
 
