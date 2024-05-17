@@ -115,6 +115,10 @@
 
 ![Mayank snake gif](https://github.com/mayankchugh-learning/mayankchugh-learning/blob/main/github-contribution-grid-snake.svg)
 
+<br>
+[![wakatime](https://wakatime.com/badge/user/d35128ad-2c73-486b-ac51-2d99ca9ee235.svg)](https://wakatime.com/@d35128ad-2c73-486b-ac51-2d99ca9ee235)
+<br>
+
 <!--
 **mayankchugh-learning/mayankchugh-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
