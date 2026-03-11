@@ -1,0 +1,140 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!+😀)](https://git.io/typing-svg)
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Mayank 😀</h1>
+
+🏆 Generative AI Engineer | ❖ Enterprise Architect/Solution Architect | 🔮 Data Scientist | ❖ Software Engineering | ❖ Cloud Migration/Integration | ❖ Project Management | ❖ Business Analysis | ❖ Product Development | ❖ 20+ Years Exp ❖ Visionary Enterprise Architect
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+</div>
+
+
+![](https://komarev.com/ghpvc/?username=mayankchugh-learning&label=PROFILE+VIEWS)
+
+# 👋 About Me ❤️:
+
+
+- 🌱 I’m currently working Generative AI, MLOPS, Data Analytics...
+- My old git repository https://github.com/mayankchugh1977
+- 📫 How to reach me: <a href="mailto:mayankchugh.learning@gmail.com">mayankchugh.learning@gmail.com</a>
+- ⚡ I love to learn new technologies. Please go through my profile to HIRE ME!! 
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchugh77/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](www.youtube.com/@itaienthusiast) 
+
+
+<!-- <a href="https://www.youtube.com/@itaienthusiast?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php#"/></a> -->
+<!-- [![YouTube subscibers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=@itaienthusiast&key=AIzaSyBYkPGoYjBy2KaGKR5Nq5Q2YwjiiLWRNhg)](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=@itaienthusiast&key=AIzaSyBYkPGoYjBy2KaGKR5Nq5Q2YwjiiLWRNhg) -->
+
+
+
+<!-- - US Visa Approval Prediction - YouTube URL for Deployment video - https://youtu.be/p81ouOZVDTs
+- Deep Learning Project: Chest Disease Classification from Chest CT Scan Images with Copy Model code - YouTube URL link - [https://youtu.be/p81ouOZVDTs](https://youtu.be/VKRxq0-pYCw)
+- Deep Learning Project Deployment on AWS: Chest Disease Classification from Chest CT Scan Images - YouTube URL for deployment video link - https://youtu.be/VKRxq0-pYCw -->
+
+# :fire: Projects
+| S No | Project Name | Specifications | Repository | Docker Hub | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](www.youtube.com/@itaienthusiast) | End-to-End |
+| ------------ | -------------- | ---------- | --------- | --------- | --------- | --------- |
+| 01 | US Visa Approval Prediction  | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/US-Visa-Approval-Prediction.git) | [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repo-green.svg)](https://hub.docker.com/repository/docker/mayankchughjob/end-to-end-usvisa-prediction-mlmodel/general) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/p81ouOZVDTs)  | <p align="center">✔</p> |
+| 02 | Chest Disease Classification from Chest CT Scan Images  | Deep Learning CNN ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/Chest-Disease-Classification-from-Chest-CT-Scan-Image.git) | | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/VKRxq0-pYCw) [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/4wdKIKt9HH4)  | <p align="center">✔</p> |
+| 03 | Industry-Safety-Detection-using-Yolov7  | Deep Learning CNN ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/Chest-Disease-Classification-from-Chest-CT-Scan-Image.git) | | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/VKRxq0-pYCw) [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/4wdKIKt9HH4)  | <p align="center">✔</p> |
+| 04 | Name-Entity-Recognition  | Deep Learning NLP ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/Name-Entity-Recognition.git) | |  | <p align="center">✔</p> |
+| 05 | Ollama RAG App  | Generative AI| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/OllamaRAGApp.git) | | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/xjdEJ_QTZJo)   | <p align="center">✔</p> |
+| 06 | Trip Planner  | Generative AI & Crew AI| [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/trip-planner-from-scratch.git) | | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/uyaBoviBNtI)   | <p align="center">✔</p> |
+| 07 | WhatsApp Bot  | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/WhatsApp-Bot-using-GenAI.git) | |   | <p align="center">✔</p> |
+| 08 | Object Detection American Sign Language | Deep Learning CNN ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/End-to-end-Object-Detection-Project.git) |  [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Repo-green.svg)](https://hub.docker.com/repository/docker/mayankchughjob/end-to-end-object-detection/general) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF4500.svg?logo=YouTube&logoColor=white)](https://youtu.be/iEyi76CGfEE)| <p align="center">✔</p> |
+| 09 | Source-Code-Analysis-using-GenAI | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/mayankchugh-learning/Source-Code-Analysis-using-GenAI.git) |  | | <p align="center">✔</p> |
+|  | This is not complete list  | Please have a look|  on my complete list of projects  | I will adding more soon | | <p align="center">✔</p> |
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd90) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%24ED6B00.svg?style=for-the-badge&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/plsql-%23316192.svg?style=for-the-badge&logo=plsql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<br>
+
+
+
+
+
+<!-- # You can also find me on: 
+<img align="left" alt="mayankchugh-learning | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+<img align="left" alt="mayankchugh-learning | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" /> -->
+                                                                                                                                                                       
+
+<br>
+
+
+
+# 📊 GitHub Stats:
+
+<div>
+  <img src="https://badges.pufler.dev/years/mayankchugh-learning" alt="Years Badge"  /> 
+  <img src="https://badges.pufler.dev/repos/mayankchugh-learning" alt="Mayank Chugh Repos Badge"  /> 
+  <img src="https://badges.pufler.dev/commits/monthly/mayankchugh-learning" alt="Updated Badge"  /> 
+   <!--Ref Link(badge):https://pufler.dev/git-badges/-->
+</div>
+<br>
+<!-- <div style = "margin: 0 10px">
+
+ ![](https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+</div> -->
+
+<div align="center">
+ 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayankchugh-learning&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img width="48%" alt="Mayank Chugh's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=react&border=61dafb&hide_border=true" />
+<div>
+  
+<!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankchugh-learning)](https://git.io/streak-stats)
+-->
+<div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
+<!-- <div style = "display: flex; flex-direction: row;">
+
+
+<div align = "center" style = "margin: 0 10px">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchugh-learning&theme=radical&hide_border=false)
+</div>
+</div>  -->
+
+<div style = "margin: 0 10px">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchugh-learning&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+</div>
+
+### 🔝 Top Contributed Repo
+<div align = "center">
+
+
+![](https://github-contributor-stats.vercel.app/api?username=mayankchugh-learning&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankchugh-learning&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+![Mayank snake gif](https://github.com/mayankchugh-learning/mayankchugh-learning/blob/main/github-contribution-grid-snake.svg)
+
+
+
+<!--
+**mayankchugh-learning/mayankchugh-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning MLOPS...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
